@@ -1,0 +1,24 @@
+touch .gitignore
+git config --global user.name "Lakshya Kumar"
+git config --global user.email "kamrakumar275@gmail.com"
+git init
+git add .
+git commit -m "Initial commit"
+git ststus //(Just For See)
+git remote add origingit@github.com:Lakshyakumar266/wesit
+git push origin master
+
+To Add Upgrades 
+git add .
+git commit -m "Added Chetshet"
+git push origin master
+
+
+
+
+
+
+
+
+
+
